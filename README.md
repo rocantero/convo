@@ -4,9 +4,7 @@ Convo is here to help people on articles or comments with Imperial units scatter
 
 ## Authors
 
-* **Rodrigo Cantero** - *Initial work*
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Rodrigo Cantero**
 
 ## License
 
